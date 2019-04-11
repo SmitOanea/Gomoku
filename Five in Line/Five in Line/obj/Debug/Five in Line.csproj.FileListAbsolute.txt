@@ -1,0 +1,20 @@
+D:\Programare\C#\Five in Line\Five in Line\bin\Debug\Five in Line.exe.config
+D:\Programare\C#\Five in Line\Five in Line\bin\Debug\Five in Line.exe
+D:\Programare\C#\Five in Line\Five in Line\bin\Debug\Five in Line.pdb
+D:\Programare\C#\Five in Line\Five in Line\obj\Debug\Five in Line.csprojResolveAssemblyReference.cache
+D:\Programare\C#\Five in Line\Five in Line\obj\Debug\Five_in_Line.Form1.resources
+D:\Programare\C#\Five in Line\Five in Line\obj\Debug\Five_in_Line.Properties.Resources.resources
+D:\Programare\C#\Five in Line\Five in Line\obj\Debug\Five in Line.csproj.GenerateResource.Cache
+D:\Programare\C#\Five in Line\Five in Line\obj\Debug\Five in Line.csproj.CoreCompileInputs.cache
+D:\Programare\C#\Five in Line\Five in Line\obj\Debug\Five in Line.exe
+D:\Programare\C#\Five in Line\Five in Line\obj\Debug\Five in Line.pdb
+F:\Programare\C#\Five in Line\Five in Line\bin\Debug\Five in Line.exe.config
+F:\Programare\C#\Five in Line\Five in Line\bin\Debug\Five in Line.exe
+F:\Programare\C#\Five in Line\Five in Line\bin\Debug\Five in Line.pdb
+F:\Programare\C#\Five in Line\Five in Line\obj\Debug\Five in Line.csprojResolveAssemblyReference.cache
+F:\Programare\C#\Five in Line\Five in Line\obj\Debug\Five_in_Line.Form1.resources
+F:\Programare\C#\Five in Line\Five in Line\obj\Debug\Five_in_Line.Properties.Resources.resources
+F:\Programare\C#\Five in Line\Five in Line\obj\Debug\Five in Line.csproj.GenerateResource.Cache
+F:\Programare\C#\Five in Line\Five in Line\obj\Debug\Five in Line.csproj.CoreCompileInputs.cache
+F:\Programare\C#\Five in Line\Five in Line\obj\Debug\Five in Line.exe
+F:\Programare\C#\Five in Line\Five in Line\obj\Debug\Five in Line.pdb
