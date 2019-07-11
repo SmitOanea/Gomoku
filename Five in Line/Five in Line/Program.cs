@@ -16,7 +16,7 @@ namespace Five_in_Line
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new FormStatus());
         }
     }
 }
